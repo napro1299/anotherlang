@@ -1,0 +1,1 @@
+gcc main.c lex.c token.c common.c -o main -I.
